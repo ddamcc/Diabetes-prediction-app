@@ -30,3 +30,4 @@ and the model corresponding to it is called **Support Vector Machine Classifier*
 
 ![Screenshot (1360)](https://user-images.githubusercontent.com/76621987/175787793-f40e071b-f929-4d89-bbe2-ab2b214cd56e.png)
 
+![Screenshot (1362)](https://user-images.githubusercontent.com/76621987/175787857-d9719fc6-ed11-484b-b5d9-474b03efbe7f.png)
