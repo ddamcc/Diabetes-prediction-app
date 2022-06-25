@@ -22,7 +22,7 @@ and the model corresponding to it is called **Support Vector Machine Classifier*
 
 <h3>Person is not diabetic</h3>
 
-
+![Screenshot (1356)](https://user-images.githubusercontent.com/76621987/175787613-e5fe883a-bc09-46e4-b140-a2c039686837.png)
 
 
 
