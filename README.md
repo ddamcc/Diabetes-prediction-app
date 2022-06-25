@@ -24,7 +24,7 @@ and the model corresponding to it is called **Support Vector Machine Classifier*
 
 ![Screenshot (1356)](https://user-images.githubusercontent.com/76621987/175787613-e5fe883a-bc09-46e4-b140-a2c039686837.png)
 
-
+![Screenshot (1359)](https://user-images.githubusercontent.com/76621987/175787725-96ad010d-2628-4c03-a253-829cff8cbbe0.png)
 
 <h3>Person is diabetic</h3>
 
